@@ -15,6 +15,7 @@ Welcome to the **Java Singly Linked List Operations** repository! This repositor
 | `program05.java` | Singly Linked List Reversal | Reads array elements to build a singly linked list of `Node05` nodes with `head` and `tail` pointers, transfers node values into a `LinkedList<Integer>`, and prints the elements in reverse order separated by `->`[cite: 6]. |
 | `program06.java` | Singly Linked List Reversal (New Linked List Construction) | Reads array elements to build a singly linked list of `Node06` nodes with `head` and `tail` pointers, extracts node values into a `LinkedList<Integer>`, constructs a new reversed linked list (`h` and `t` pointers) from elements in reverse order, and traverses the reversed list to print each node's data[cite: 7]. |
 | `program07.java` | Merge Two Sorted Linked Lists | Reads two input arrays (`arr[]` and `arr2[]`), constructs a combined singly linked list of `Node07` elements using `head` and `tail` pointers, traverses the list to print node values and store them in a `LinkedList<Integer>`, and sorts the collected list via `Collections.sort()`[cite: 8]. |
+| `program08.java` | Sum of Two Numbers Represented as Linked Lists | Reads integer inputs into two lists (`list1` and `list2`), builds `Node08` linked lists (`head1` and `head2`), reverses both lists in-place (`revhead1` and `revhead2`), adds corresponding digits along with carry (`carray`) into a new list (`head3`), reverses the result back (`head4`), strips leading zeros, and prints the final sum digits[cite: 9]. |
 ---
 
 ## 🛠️ How to Compile and Run
